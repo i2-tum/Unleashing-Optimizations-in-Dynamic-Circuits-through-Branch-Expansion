@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper listed below."
+type: software
+title: "Branch Expansion: Demo Implementation"
+authors:
+  - family-names: "Chen"
+    given-names: "Yanbin"
+repository-code: "https://github.com/i2-tum/Unleashing-Optimizations-in-Dynamic-Circuits-through-Branch-Expansion"
+
+preferred-citation:
+  type: conference-paper
+  title: "Unleashing Optimizations in Dynamic Circuits through Branch Expansion"
+  authors:
+    - family-names: "Chen"
+      given-names: "Yanbin"
+  collection-title: "Proceedings of the 22nd ACM International Conference on Computing Frontiers"
+  year: 2025
+  doi: "10.1145/3719276.3725187"
